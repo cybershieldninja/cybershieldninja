@@ -1,5 +1,18 @@
-## Hi there 👋
+## Hay👋, 
+I'm Senthil!
+<br>
+Thank you for visiting my GitHub profile. It's a pleasure to meet you here!
 
+🌟 **Passions:**
+- 💻 Coding enthusiast
+- 🤖 AI and Machine Learning
+
+🚀 **Interests:**
+- Exploring the world of technology
+- Contributing to open-source projects
+- Learning new programming languages 
+
+<!--I'm a passionate CyberSecurity and Software Developer from India 🇮🇳 -->
 <!--
 **cybershieldninja/cybershieldninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
