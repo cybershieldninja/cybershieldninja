@@ -2,15 +2,16 @@
 I'm Senthil!
 <br>
 Thank you for visiting my GitHub profile. It's a pleasure to meet you here!
-<br>
+
 🌟 **Passions:**
 - 💻 Coding enthusiast
 - 🤖 AI and Machine Learning
-<br>
+
 🚀 **Interests:**
 - Exploring the world of technology
 - Contributing to open-source projects
 - Learning new programming languages
+- 
 
 <!--I'm a passionate CyberSecurity and Software Developer from India 🇮🇳 -->
 <!--
