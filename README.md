@@ -10,8 +10,7 @@ Thank you for visiting my GitHub profile. It's a pleasure to meet you here!
 🚀 **Interests:**
 - Exploring the world of technology
 - Contributing to open-source projects
-- Learning new programming languages
-- 
+- Learning new programming languages 
 
 <!--I'm a passionate CyberSecurity and Software Developer from India 🇮🇳 -->
 <!--
