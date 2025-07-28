@@ -5,12 +5,15 @@ Thank you for visiting my GitHub profile. It's a pleasure to meet you here!
 
 🌟 **Passions:**
 - 💻 Coding enthusiast
-- 🤖 AI and Machine Learning
+- ☁️ Cloud Computing & DevSecOps – Passionate about building and securing scalable cloud systems
+- 🔒 Cybersecurity – Focused on securing applications and infrastructure, both on-prem and in the cloud, using Ansible for automation and configuration management.
+- 🤖 AI and Machine Learning – Exploring how security and AI can work together
 
 🚀 **Interests:**
 - Exploring the world of technology
-- Contributing to open-source projects
-- Learning new programming languages 
+- Building & Securing Cloud Infrastructure using tools like AWS, Google Cloud, and Terraform
+- Learning and implementing DevSecOps principles for secure CI/CD pipelines
+- Enhancing Cybersecurity Practices across the software development lifecycle (SDLC) 
 
 <!--I'm a passionate CyberSecurity and Software Developer from India 🇮🇳 -->
 <!--
