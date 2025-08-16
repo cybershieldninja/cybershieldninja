@@ -15,6 +15,9 @@ Thank you for visiting my GitHub profile. It's a pleasure to meet you here!
 - Learning and implementing DevSecOps principles for secure CI/CD pipelines
 - Enhancing Cybersecurity Practices across the software development lifecycle (SDLC) 
 
+🌐 Connect with me
+- 📫 **Reach me:** cybershieldninja@yahoo.com
+  
 🛠️ **Languages & Tools**
 <p align="left">
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
