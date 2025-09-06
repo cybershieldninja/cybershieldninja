@@ -20,6 +20,7 @@ Thank you for visiting my GitHub profile. It's a pleasure to meet you here!
 <p align="left">
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://podman.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" alt="podman" width="40" height="40"/></a>    
   <a href="https://www.redhat.com/en/ansible-collaborative" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/></a>  
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
