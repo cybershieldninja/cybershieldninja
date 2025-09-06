@@ -1,6 +1,4 @@
 ## Hay👋, 
-I'm Senthil!
-<br>
 Thank you for visiting my GitHub profile. It's a pleasure to meet you here!
 
 🌟 **Passions:**
